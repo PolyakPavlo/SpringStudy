@@ -1,6 +1,5 @@
 package lab1.example;
 
-
 public class MessagePrinter implements Printer {
     private String message;
 
